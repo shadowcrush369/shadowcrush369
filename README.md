@@ -36,7 +36,5 @@
 
 ---
 
-### 📊 GitHub Stats  
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
+### 📊 GitHub Activity
+[![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shadowcrush369&bg_color=000000&color=ffffff&line=02ed49&point=eadcdc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
