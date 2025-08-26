@@ -12,25 +12,19 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shadow_crush.369?igsh=MTNhaXlseHI0ZDZqdQ==)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@shadow_crushyt?si=56B48OheeJno3Z66)  
 
----
-
 ## 💻 Tech I Work With
 ![Python](https://img.icons8.com/color/48/python--v1.png)
 ![HTML5](https://img.icons8.com/color/48/html-5--v1.png)
 ![CSS3](https://img.icons8.com/color/48/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/javascript--v1.png)
 
----
-
 ## ⚡ Tools I Use  
-<p align="center">
+<p>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="48" height="48"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="48" height="48"/>
 </p>
 
-
----
 
 ## 📊 GitHub Stats  
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
