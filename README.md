@@ -25,13 +25,9 @@
 ---
 
 ## ⚡ Tools I Use  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" width="48" height="48"/>
 <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="48" height="48"/>
-<img src="https://img.icons8.com/plasticine/48/notion.png" alt="Notion" width="48" height="48"/>
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="48" height="48"/>
 
 ---
 
