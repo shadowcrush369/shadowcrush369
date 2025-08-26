@@ -3,10 +3,12 @@
 ---
 
 🚀 Passionate about coding, trading, and building modern solutions.  
-💻 Currently learning **Web Development, Trading ICT concepts, and AI**.  
-📚 Exploring **Economics & World Politics** along with tech.  
-🌱 Self-taught developer, always curious and growing.  
+💻 Currently learning **Machine Learning**.  
+📚 Exploring **AI, Economics, and World Politics** alongside technology.  
+🌱 Self-taught developer — always curious and growing.  
 ✈️ Travel enthusiast | 💪 Fitness lover | 📈 Trader  
+
+📧 Reach me at: **ajay.inbox.369@gmail.com**
 
 ### 🌐 Connect with Me  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ShadowC54153?t=cj7aIGhQDbNcZGyw904l8g&s=09) 
