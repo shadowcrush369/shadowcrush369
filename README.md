@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ajay  
+### Hi there 👋 It's me Ajay  
 
 ---
 
