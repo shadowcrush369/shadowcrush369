@@ -25,9 +25,12 @@
 ---
 
 ## ⚡ Tools I Use  
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" width="48" height="48"/>
-<img src="https://img.icons8.com/color/48/git.png" alt="Git" width="48" height="48"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="48" height="48"/>
+<p align="center">
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="48" height="48"/>
+</p>
+
 
 ---
 
