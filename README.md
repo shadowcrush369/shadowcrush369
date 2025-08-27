@@ -17,6 +17,10 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@shadow_crushyt?si=56B48OheeJno3Z66)  
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/StrawHatDays/s/n0sAMerqcE)
 ![Cat 404](https://github.com/your-username/your-repo-name/blob/main/404%20error%20page%20with%20cat.gif)
+<p align="center">
+  <img src="https://github.com/your-username/your-repo-name/blob/main/404%20error%20page%20with%20cat.gif" width="300"/>
+</p>
+
 
 
 
