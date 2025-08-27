@@ -16,9 +16,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shadow_crush.369?igsh=MTNhaXlseHI0ZDZqdQ==)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@shadow_crushyt?si=56B48OheeJno3Z66)  
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/StrawHatDays/s/n0sAMerqcE)
-<p align="center">
-  <img src="your-uploaded-cat.gif" width="400"/>
-</p>
+![Cat 404](https://github.com/your-username/your-repo-name/blob/main/404%20error%20page%20with%20cat.gif)
+
 
 
 
