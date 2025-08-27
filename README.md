@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Ajay  
 
 <img align="right" width="150" src="https://raw.githubusercontent.com/shadowcrush369/shadowcrush369/main/assets/404-error.gif">
+
 🚀 Passionate about coding, trading, and building modern solutions.             
 💻 Currently learning **Machine Learning**.  
 📚 Exploring **AI, Economics, and World Politics** alongside technology.  
