@@ -7,6 +7,10 @@
 ✈️ Travel enthusiast | 💪 Fitness lover | 📈 Trader                                                                                         
 
 📧 Reach me at: **ajay.inbox.369@gmail.com**
+<p align="center">
+  <img src="DIRECT_GIF_URL_HERE" alt="Chat Devs Sticker" width="250" />
+</p>
+
 
 ### 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-v-226768376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
