@@ -7,7 +7,12 @@
 📚 Exploring **AI, Economics, and World Politics** alongside technology.  
 🌱 Self-taught developer — always curious and growing.  
 ✈️ Travel enthusiast | 💪 Fitness lover | 📈 Trader  
-![404 Error](https://raw.githubusercontent.com/shadowcrush369/shadowcrush369/main/assets/404-error.gif)
+# Hi there 👋 I'm Ajay  
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/shadowcrush369/shadowcrush369/main/assets/404-error.gif" width="400"/>
+</p>
+
 📧 Reach me at: **ajay.inbox.369@gmail.com**
 
 ### 🌐 Connect with Me  
