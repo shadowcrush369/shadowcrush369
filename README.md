@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Ajay  
 
 <img align="right" width="150" 
-     style="margin-left: 20px; margin-right: -150px;" 
+     style="margin-left: 200px; margin-right: -50px;" 
      src="https://raw.githubusercontent.com/shadowcrush369/shadowcrush369/main/assets/404-error.gif">
 
 🚀 Passionate about coding, trading, and building modern solutions.             
