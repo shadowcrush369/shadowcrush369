@@ -13,10 +13,11 @@
       </p>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/shadowcrush369/shadowcrush369/main/assets/404-error.gif" width="180"/>
+      <img src="https://raw.githubusercontent.com/shadowcrush369/shadowcrush369/main/assets/404-error.gif" width="150"/>
     </td>
   </tr>
 </table>
+
 
 
 
