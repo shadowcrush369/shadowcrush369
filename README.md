@@ -1,4 +1,8 @@
 # Hi there 👋 I'm Ajay  
+<p align="right">
+  <img src="https://raw.githubusercontent.com/shadowcrush369/shadowcrush369/main/assets/404-error.gif" width="200"/>
+</p>
+
 
 🚀 Passionate about coding, trading, and building modern solutions.             
 💻 Currently learning **Machine Learning**.  
