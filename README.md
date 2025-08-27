@@ -8,8 +8,9 @@
 
 📧 Reach me at: **ajay.inbox.369@gmail.com**
 <p align="center">
-  <img src="DIRECT_GIF_URL_HERE" alt="Chat Devs Sticker" width="250" />
+  <img src="https://media.tenor.com/your-copied-link.gif" alt="Chat Devs Sticker" width="250" />
 </p>
+
 
 
 ### 🌐 Connect with Me  
