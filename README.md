@@ -15,6 +15,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ShadowC54153?t=cj7aIGhQDbNcZGyw904l8g&s=09)   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shadow_crush.369?igsh=MTNhaXlseHI0ZDZqdQ==)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@shadow_crushyt?si=56B48OheeJno3Z66)  
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/StrawHatDays/s/n0sAMerqcE)
 
 ### 💻 Tech I Work With  
 <p>
