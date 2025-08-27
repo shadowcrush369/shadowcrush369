@@ -1,7 +1,9 @@
 # Hi there 👋 I'm Ajay  
 <h1>Hi there 👋 I'm Ajay</h1>
 
-<table style="border-collapse: collapse;"> <!-- no borders -->
+<h1>Hi there 👋 I'm Ajay</h1>
+
+<table style="border-collapse: collapse;"> <!-- ensures no extra lines -->
   <tr>
     <td style="padding-right: 20px;"> <!-- optional spacing -->
       <p>
@@ -18,6 +20,8 @@
     </td>
   </tr>
 </table>
+
+
 
 
 
