@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Ajay  
-<div style="display: flex; align-items: center; gap: 20px;">
-  <!-- Text Section -->
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <!-- Left: Text -->
   <div>
     <h1>Hi there 👋 I'm Ajay</h1>
     <p>
@@ -13,11 +13,12 @@
     </p>
   </div>
 
-  <!-- GIF Section -->
+  <!-- Right: GIF -->
   <div>
-    <img src="https://raw.githubusercontent.com/shadowcrush369/shadowcrush369/main/assets/404-error.gif" width="150"/>
+    <img src="https://raw.githubusercontent.com/shadowcrush369/shadowcrush369/main/assets/404-error.gif" width="120"/>
   </div>
 </div>
+
 
 
 
