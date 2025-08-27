@@ -6,7 +6,8 @@
 💻 Currently learning **Machine Learning**.  
 📚 Exploring **AI, Economics, and World Politics** alongside technology.  
 🌱 Self-taught developer — always curious and growing.  
-✈️ Travel enthusiast | 💪 Fitness lover | 📈 Trader                                                                                         
+✈️ Travel enthusiast | 💪 Fitness lover | 📈 Trader  
+
 📧 Reach me at: **ajay.inbox.369@gmail.com**
 
 ### 🌐 Connect with Me  
