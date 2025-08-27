@@ -1,23 +1,6 @@
 # Hi there 👋 I'm Ajay  
-<div style="display: flex; gap: 20px;">
-  <!-- Left: Text -->
-  <div style="flex: 1;">
-    🚀 Passionate about coding, trading, and building modern solutions.<br>
-    💻 Currently learning <b>Machine Learning</b>.<br>
-    📚 Exploring <b>AI, Economics, and World Politics</b> alongside technology.<br>
-    🌱 Self-taught developer — always curious and growing.<br>
-    ✈️ Travel enthusiast | 💪 Fitness lover | 📈 Trader<br>
-    📧 Reach me at: <b>ajay.inbox.369@gmail.com</b>
-  </div>
 
-  <!-- Right: GIF -->
-  <div style="flex-shrink: 0;">
-    <img src="https://raw.githubusercontent.com/shadowcrush369/shadowcrush369/main/assets/404-error.gif" width="150"/>
-  </div>
-</div>
-
-
-
+<img align="right" width="150" src="https://raw.githubusercontent.com/shadowcrush369/shadowcrush369/main/assets/404-error.gif">
 🚀 Passionate about coding, trading, and building modern solutions.             
 💻 Currently learning **Machine Learning**.  
 📚 Exploring **AI, Economics, and World Politics** alongside technology.  
