@@ -5,13 +5,7 @@
 📚 Exploring **AI, Economics, and World Politics** alongside technology.  
 🌱 Self-taught developer — always curious and growing.  
 ✈️ Travel enthusiast | 💪 Fitness lover | 📈 Trader                                                                                         
-
 📧 Reach me at: **ajay.inbox.369@gmail.com**
-<p align="center">
-  <img src="https://media.tenor.com/your-copied-link.gif" alt="Chat Devs Sticker" width="250" />
-</p>
-
-
 
 ### 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-v-226768376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
