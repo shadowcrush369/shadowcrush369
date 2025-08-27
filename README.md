@@ -1,7 +1,5 @@
 # Hi there 👋 I'm Ajay  
 
----
-
 🚀 Passionate about coding, trading, and building modern solutions.             
 💻 Currently learning **Machine Learning**.  
 📚 Exploring **AI, Economics, and World Politics** alongside technology.  
