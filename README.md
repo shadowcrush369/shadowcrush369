@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Ajay  
-<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: nowrap;">
+<div style="display: flex; gap: 20px;">
   <!-- Left: Text -->
-  <div>
+  <div style="flex: 1;">
     🚀 Passionate about coding, trading, and building modern solutions.<br>
     💻 Currently learning <b>Machine Learning</b>.<br>
     📚 Exploring <b>AI, Economics, and World Politics</b> alongside technology.<br>
@@ -11,10 +11,11 @@
   </div>
 
   <!-- Right: GIF -->
-  <div>
-    <img src="https://raw.githubusercontent.com/shadowcrush369/shadowcrush369/main/assets/404-error.gif" width="150" style="align-self: flex-start;"/>
+  <div style="flex-shrink: 0;">
+    <img src="https://raw.githubusercontent.com/shadowcrush369/shadowcrush369/main/assets/404-error.gif" width="150"/>
   </div>
 </div>
+
 
 
 🚀 Passionate about coding, trading, and building modern solutions.             
