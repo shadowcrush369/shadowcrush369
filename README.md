@@ -36,7 +36,7 @@
   <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="40" height="40"/>
   <img src="https://logo.svgcdn.com/l/obsidian-icon.png" alt="Obsidian" width="40" height="40"/>
-  <img src="your-path/tradingview.png" alt="TradingView" width="40" height="40"/>
+   <img src="data:image/png;base64,....long_base64_code_here..." alt="TradingView" width="40" height="40"/>
 </p>
 
 ---
