@@ -36,9 +36,7 @@
   <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="40" height="40"/>
   <img src="https://logo.svgcdn.com/l/obsidian-icon.png" alt="Obsidian" width="40" height="40"/>
-  <div style="background-color: black; padding: 10px; display: inline-block;">
-  <img src="https://logo.svgcdn.com/s/tradingview-dark.svg" alt="TradingView" width="40" height="40"/>
-</div>
+  <img src="https://logo.svgcdn.com/s/tradingview-dark.png" alt="TradingView (white)" width="40" height="40"/>
 </p>
 
 ---
