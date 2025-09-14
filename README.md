@@ -36,9 +36,9 @@
   <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="40" height="40"/>
   <img src="https://logo.svgcdn.com/l/obsidian-icon.png" alt="Obsidian" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tradingview.svg" 
-     alt="TradingView" width="40" height="40" 
-     style="background:white; padding:6px; border-radius:8px; filter:invert(1);"/>
+### ⚡ Tools I Use  
+<p>
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUAAAACXCAYAAAAr2lqxAAAACXBIWXMAAAsTAAALEwEAmpwYAAAHTUlEQVR4nO3dQY7cRhAF0A8ShTkBsIAvJwDa6GldwHESZ1xRWmLo1OK2PMltW+rgZ6+fPwAAAOA42/3rAwAAcL/jY+be+3u8Z+6dy5u/uz6z5nHzcXM55mbzt+bm9lWzc3M/b6Hnnmu3Hm5y7udF83OtnlbiDptt/TQdybsGkH1fWJe5u7/mq+bgO2RHH/f3R4c7O7rme8rMcm8LtG9bmYtTbuzV+uLv4cdXwTD45t3//DZjfkfmcubGbZ9fMfP4eP/7A2T2H+d/xLzPnN8xvMPNDZja9d34+A9Mc8+cOc2rPTuFkbY2bm88fXn/MCnm3kbnmyfP3+8Zc7K51kNPz16fu+TuGcy8zdXXC3fR+u0lQ5q8z1prjM/M87m7pZt+pL2Jj/6jk96fn9f3ufml93vqtXLmXufZ8rwu9DN/GQ27mfnNL1bmxD58zYf8vfnZnX5h73rjyfV17hHxZyX7cv4M7gztqNvq/1fbZ/9PrsvVxfR8t3+iXmTmzOc+db5b3Wmf5Y3nt7Dz5+b9jrUjqZJ9f7vJ+X8Pb/n9saz4lvXh7fxzfso9H91XpcxKkRPc8J6dXyqOZLtp1rlC+3a9MXz+c+zrfXy3bKvYpOr/OXPY5npucZXK28+cHsON/1cD/8Snvpy+r5dM3uD/DfgE27h/IwvMdQAADc8RrG+QAAgJkJ5QEAAJgZUA4AAGA2QHkAAIDZgHIAAADzAyABAAAYTsFRvAAAAABJRU5ErkJggg==" alt="TradingView" width="120"/>
 </p>
 
 ---
