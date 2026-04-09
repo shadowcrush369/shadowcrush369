@@ -40,6 +40,15 @@
   <img src="https://logo.svgcdn.com/l/obsidian-icon.png" alt="Obsidian" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tradingview.svg" alt="TradingView" width="40" height="40" style="filter: invert(1) brightness(2);"/>
 
+  <!-- Added Tools -->
+<img src="https://img.icons8.com/color/48/meta-trader-5.png" alt="MT5" width="40" height="40"/>
+<img src="https://seeklogo.com/images/N/ninjatrader-logo-3C0E6D9B6D-seeklogo.com.png" alt="NinjaTrader" width="40" height="40"/>
+<img src="https://bookmap.com/wp-content/uploads/2020/09/bookmap-logo.png" alt="Bookmap" width="40" height="40"/>
+<img src="https://n8n.io/favicon.ico" alt="n8n" width="40" height="40"/>
+
+<!-- Fallback / Approximate (no official CDN icons easily available) -->
+<img src="https://via.placeholder.com/48?text=AG" alt="Antigravity" width="40" height="40"/>
+<img src="https://via.placeholder.com/48?text=DC" alt="DeepChart" width="40" height="40"/>
      
 ---
 ### 🧑‍💻 LeetCode Stats  
