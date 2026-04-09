@@ -40,7 +40,7 @@
   <img src="https://logo.svgcdn.com/l/obsidian-icon.png" alt="Obsidian" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tradingview.svg" alt="TradingView" width="40" height="40" style="filter: invert(1) brightness(2);"/>
   <img src="https://n8n.io/favicon.ico" alt="n8n" width="40" height="40"/>
-   <img src="https://icons8.com/icon/zfHRZ6i1Wg0U/figma" alt="Obsidian" width="40" height="40"/>
+   <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Obsidian" width="40" height="40"/>
      
 ---
 ### 🧑‍💻 LeetCode Stats  
