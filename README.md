@@ -40,10 +40,10 @@
   <img src="https://logo.svgcdn.com/l/obsidian-icon.png" alt="Obsidian" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tradingview.svg" alt="TradingView" width="40" height="40" style="filter: invert(1) brightness(2);"/>
   <img src="https://n8n.io/favicon.ico" alt="n8n" width="40" height="40"/>
-  <p align="left">
-  <img src="./assets/figma.png" width="40"/>
-  <img src="./assets/antigravity.png" width="40"/>
-  <img src="./assets/canva.png" width="40"/>
+  <p>
+  <img src="https://raw.githubusercontent.com/shadowcrush369/shadowcrush369/main/assets/figma.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/shadowcrush369/shadowcrush369/main/assets/antigravity.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/shadowcrush369/shadowcrush369/main/assets/canva.png" width="40"/>
 </p>
      
 ---
