@@ -46,6 +46,7 @@
        alt="Figma" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/physics.png" 
        alt="Antigravity" width="40" height="40"/>
+     
 ---
 ### 🧑‍💻 LeetCode Stats  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/L82ARuIETf?theme=dark&font=Marcellus&ext=contest)
