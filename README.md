@@ -43,7 +43,7 @@
   <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="figma" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" alt="canva" width="40" height="40"/>  
   <img src="https://img.icons8.com/?size=100&id=axJ7sXBmQS2g&format=png&color=000000" alt="binance" width="40" height="40"/>  
-     
+     <img src="https://img.icons8.com/?size=100&id=74268&format=png&color=000000" alt="binance" width="40" height="40"/>
 ---
 ### 🧑‍💻 LeetCode Stats  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/L82ARuIETf?theme=dark&font=Marcellus&ext=contest)
