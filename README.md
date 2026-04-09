@@ -24,6 +24,8 @@
   <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/tensorflow.png" alt="TensorFlow" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" width="40" height="40"/>
