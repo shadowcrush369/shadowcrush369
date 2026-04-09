@@ -40,12 +40,14 @@
   <img src="https://logo.svgcdn.com/l/obsidian-icon.png" alt="Obsidian" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tradingview.svg" alt="TradingView" width="40" height="40" style="filter: invert(1) brightness(2);"/>
   <img src="https://n8n.io/favicon.ico" alt="n8n" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/canva.svg" 
-       alt="Canva" width="40" height="40" style="filter: invert(1);"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/figma.svg" 
-       alt="Figma" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/physics.png" 
-       alt="Antigravity" width="40" height="40"/>
+  <!-- Figma -->
+  <img src="./assets/figma.png" alt="Figma" width="40" height="40"/>
+
+  <!-- Antigravity -->
+  <img src="./assets/antigravity.png" alt="Antigravity" width="40" height="40"/>
+
+  <!-- Canva -->
+  <img src="./assets/canva.png" alt="Canva" width="40" height="40"/>
      
 ---
 ### 🧑‍💻 LeetCode Stats  
