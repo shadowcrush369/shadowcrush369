@@ -39,17 +39,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="40" height="40"/>
   <img src="https://logo.svgcdn.com/l/obsidian-icon.png" alt="Obsidian" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tradingview.svg" alt="TradingView" width="40" height="40" style="filter: invert(1) brightness(2);"/>
-
-   <!-- Fixed Tools -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40" style="filter: invert(1)"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metatrader.svg" width="40" style="filter: invert(1)"/>
-
-  <!-- Fallback (No official icons available) -->
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/trade.png" width="40" alt="NinjaTrader"/>
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/combo-chart.png" width="40" alt="Bookmap"/>
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/physics.png" width="40" alt="Antigravity"/>
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/area-chart.png" width="40" alt="DeepChart"/>
-
+  <img src="https://n8n.io/favicon.ico" alt="n8n" width="40" height="40"/>
+ 
 ---
 ### 🧑‍💻 LeetCode Stats  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/L82ARuIETf?theme=dark&font=Marcellus&ext=contest)
