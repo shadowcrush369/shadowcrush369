@@ -20,32 +20,33 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/StrawHatDays/s/n0sAMerqcE)
 
 ### 💻 Tech I Work With  
-<p>
-  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/tensorflow.png" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" width="40" height="40"/>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="40"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="40"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40"/>
+  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" width="40"/>
+  <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" width="40"/>
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40"/>
+  <img src="https://img.icons8.com/color/48/tensorflow.png" alt="TensorFlow" width="40"/>
+  <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" width="40"/>
+  <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" width="40"/>
 </p>
 
-### ⚡ Tools I Use  
-<p>
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=74268&format=png&color=000000" alt="n8n" width="40" height="40"/>
-  <img src="https://n8n.io/favicon.ico" alt="n8n" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="figma" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" alt="canva" width="40" height="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="40" height="40"/>
-  <img src="https://logo.svgcdn.com/l/obsidian-icon.png" alt="Obsidian" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tradingview.svg" alt="TradingView" width="40" height="40" style="filter: invert(1) brightness(2);"/>
-  <img src="https://img.icons8.com/?size=100&id=axJ7sXBmQS2g&format=png&color=000000" alt="binance" width="40" height="40"/>  
-     
 ---
+
+### ⚡ Tools I Use  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" width="40"/>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=74268&format=png&color=000000" alt="n8n" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Figma" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" alt="Canva" width="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="40"/>
+  <img src="https://logo.svgcdn.com/l/obsidian-icon.png" alt="Obsidian" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tradingview.svg" alt="TradingView" width="40" style="filter: invert(1) brightness(2);"/>
+  <img src="https://img.icons8.com/?size=100&id=axJ7sXBmQS2g&format=png&color=000000" alt="Binance" width="40"/>  
+</p>
+
 ### 🧑‍💻 LeetCode Stats  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/L82ARuIETf?theme=dark&font=Marcellus&ext=contest)
 
