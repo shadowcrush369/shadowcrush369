@@ -32,8 +32,6 @@
   <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" width="40"/>
 </p>
 
----
-
 ### ⚡ Tools I Use  
 <p align="left">
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" width="40"/>
@@ -46,6 +44,8 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tradingview.svg" alt="TradingView" width="40" style="filter: invert(1) brightness(2);"/>
   <img src="https://img.icons8.com/?size=100&id=axJ7sXBmQS2g&format=png&color=000000" alt="Binance" width="40"/>  
 </p>
+
+---
 
 ### 🧑‍💻 LeetCode Stats  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/L82ARuIETf?theme=dark&font=Marcellus&ext=contest)
