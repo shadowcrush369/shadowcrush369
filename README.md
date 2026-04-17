@@ -47,8 +47,8 @@
 
 ---
 
-### 🧑‍💻 LeetCode Stats  
-![LeetCode Stats](https://leetcard.jacoblin.cool/L82ARuIETf?theme=dark&font=Marcellus&ext=contest)
+`### 🧑‍💻 LeetCode Stats  
+![LeetCode Stats](https://leetcard.jacoblin.cool/L82ARuIETf?theme=dark&font=Marcellus&ext=contest)`
 
 ### 📊 GitHub Activity
 [![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shadowcrush369&bg_color=000000&color=ffffff&line=02ed49&point=eadcdc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
